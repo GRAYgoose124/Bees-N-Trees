@@ -1,0 +1,2 @@
+#define BeesNTrees_VERSION_MAJOR @BeesNTrees_VERSION_MAJOR@
+#define BeesNTrees_VERSION_MINOR @BeesNTrees_VERSION_MINOR@
